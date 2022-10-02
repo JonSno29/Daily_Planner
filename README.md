@@ -45,9 +45,9 @@ THEN the saved events persist
 
 # LIVE LINK:
 
-Repository: https://github.com/JonSno29/Coding_Assessment_Quiz.git
+Repository: https://github.com/JonSno29/Daily_Planner.git
 
-WebPage: https://jonsno29.github.io/Coding_Assessment_Quiz/
+WebPage: https://jonsno29.github.io/Daily_Planner/
 
 # INSTALLATION, USAGE & MOCK-UP:
 
