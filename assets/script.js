@@ -156,3 +156,43 @@ $(".delbtn9").on("click", function () {
   var localStor = $(this).siblings("#9am").val("");
   localStorage.removeItem("9:00", localStor);
 });
+
+$(".delbtn10").on("click", function () {
+  var localStor = $(this).siblings("#10am").val("");
+  localStorage.removeItem("10:00", localStor);
+});
+
+$(".delbtn11").on("click", function () {
+  var localStor = $(this).siblings("#11am").val("");
+  localStorage.removeItem("11:00", localStor);
+});
+
+$(".delbtn12").on("click", function () {
+  var localStor = $(this).siblings("#12pm").val("");
+  localStorage.removeItem("12:00", localStor);
+});
+
+$(".delbtn1").on("click", function () {
+  var localStor = $(this).siblings("#1pm").val("");
+  localStorage.removeItem("1:00", localStor);
+});
+
+$(".delbtn2").on("click", function () {
+  var localStor = $(this).siblings("#2pm").val("");
+  localStorage.removeItem("2:00", localStor);
+});
+
+$(".delbtn3").on("click", function () {
+  var localStor = $(this).siblings("#3pm").val("");
+  localStorage.removeItem("3:00", localStor);
+});
+
+$(".delbtn4").on("click", function () {
+  var localStor = $(this).siblings("#4pm").val("");
+  localStorage.removeItem("4:00", localStor);
+});
+
+$(".delbtn5").on("click", function () {
+  var localStor = $(this).siblings("#5pm").val("");
+  localStorage.removeItem("5:00", localStor);
+});
