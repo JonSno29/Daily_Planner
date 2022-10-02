@@ -84,13 +84,59 @@ if (currentHour > 16) {
   $("#4pm").addClass("future");
 }
 
-if (currentHour > 17) {
-  $("#5pm").addClass("past");
-} else if (currentHour >= 17 && currentHour < 18) {
+  if (currentHour > 17) {
+    $("#5pm").addClass("past");
+  } else if (currentHour >= 17 && currentHour < 18) {
   $("#5pm").addClass("present");
-} else if (currentHour < 17) {
+  } else if (currentHour < 17) {
   $("#5pm").addClass("future");
+  }
 }
-}
+timeBlockColor();
 
+/* Tasks save through reload */
+$(".btn9").on("click", function () {
+  var localStor = $("#9am").val();
+  localStorage.setItem("9:00", localStor);
+});
+
+$(".btn10").on("click", function () {
+  var localStor = $("#10am").val();
+  localStorage.setItem("10:00", localStor);
+});
+
+$(".btn11").on("click", function () {
+  var localStor = $("#11am").val();
+  localStorage.setItem("11:00", localStor);
+});
+
+$(".btn12").on("click", function () {
+  var localStor = $("#12pm").val();
+  localStorage.setItem("12:00", localStor);
+});
+
+$(".btn1").on("click", function () {
+  var localStor = $("#1pm").val();
+  localStorage.setItem("1:00", localStor);
+});
+
+$(".btn2").on("click", function () {
+  var localStor = $("#2pm").val();
+  localStorage.setItem("2:00", localStor);
+});
+
+$(".btn3").on("click", function () {
+  var localStor = $("#3pm").val();
+  localStorage.setItem("3:00", localStor);
+});
+
+$(".btn4").on("click", function () {
+  var localStor = $("#4pm").val();
+  localStorage.setItem("4:00", localStor);
+});
+
+$(".btn5").on("click", function () {
+  var localStor = $("#5pm").val();
+  localStorage.setItem("5:00", localStor);
+});
 
