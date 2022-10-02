@@ -1,6 +1,7 @@
 # Work Day Scheduler Starter Code
 
 ## OVERVIEW
+
 To, Prepare me for my journey after I finish Coding Bootcamp. Hiring companies will
 
 use these Coding Assessments, to make sure you are prepared, before you are hired.
@@ -42,13 +43,14 @@ WHEN I refresh the page
 THEN the saved events persist
 
 
+# LIVE LINK:
 
-LIVE LINK:
 Repository: https://github.com/JonSno29/Coding_Assessment_Quiz.git
 
 WebPage: https://jonsno29.github.io/Coding_Assessment_Quiz/
 
-INSTALLATION, USAGE & MOCK-UP:
+# INSTALLATION, USAGE & MOCK-UP:
+
 🎗 JavaScript
 
 🎗 Media Queries
@@ -69,19 +71,22 @@ INSTALLATION, USAGE & MOCK-UP:
 
 🎗 Screencastify for mock-up GIF
 
-AssessmentMU
+ AssessmentMU
 
-CREDITS:
-My tutor also helped me display a custom logo.
+# CREDITS:
+
+Thank you for the starter code: https://github.com/coding-boot-camp/super-disco.git
 
 My fellow bootcamp study group at the U Of M, it's always fun collaborating with eachother.
 
-MDN DOCUMENTS: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+MDN DOCUMENTS:
 
-LICENSE:
+# LICENSE:
+
 MIT LICENSE
 
-FEATURES:
+# FEATURES:
+
 🎗 Uses a GIF to show features.
 
 🎗 Powered by JavaScript.
@@ -92,15 +97,18 @@ FEATURES:
 
 🎗 These features enhance user experience.
 
-HOW TO CONTRIBUTE:
+## HOW TO CONTRIBUTE:
+
 Fork my repositories so I can fork yours:
 
 Use the "scout rule" to help others.
 
-TESTS:
+# TESTS:
+
 🎗 Trial and error
 
 🎗 Research
 
-CONTACT:
+# CONTACT:
+
 Snoverjon@gmail.com
