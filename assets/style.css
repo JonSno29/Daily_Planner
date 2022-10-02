@@ -26,7 +26,7 @@ textarea:focus {
   text-align: center;
   background-color: transparent;
   color: rgb(236, 109, 17);
-  border-bottom: 10px solid rgb(231, 111, 6);
+  border-bottom: 10px solid rgb(28, 87, 99);
 }
 
 .description{
@@ -68,6 +68,12 @@ textarea:focus {
 .future {
   background-color: #6e9eca;
   color: rgb(9, 9, 9);
+}
+
+/* button styling */
+.deleteBtn {
+  border-radius: 25px;
+  background: #e90826;
 }
 
 .saveBtn {
