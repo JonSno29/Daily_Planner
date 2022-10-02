@@ -142,3 +142,11 @@ $(".btn5").on("click", function () {
 
 /* saved tasks from localstorage */
 $("#9am").val(localStorage.getItem("9:00"));
+$("#10am").val(localStorage.getItem("10:00"));
+$("#11am").val(localStorage.getItem("11:00"));
+$("#12pm").val(localStorage.getItem("12:00"));
+$("#1pm").val(localStorage.getItem("1:00"));
+$("#2pm").val(localStorage.getItem("2:00"));
+$("#3pm").val(localStorage.getItem("3:00"));
+$("#4pm").val(localStorage.getItem("4:00"));
+$("#5pm").val(localStorage.getItem("5:00"));
