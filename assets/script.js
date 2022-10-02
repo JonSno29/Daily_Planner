@@ -1,7 +1,6 @@
 /* variables section */
 var todaysDate = moment().format("LLLL");
 var tasks = [
-  "8am",
   "9am",
   "10am",
   "11am",
@@ -21,11 +20,20 @@ $("#currentDay").text(todaysDate);
 /* functions section */
 /* past, present, future color function */
 function timeBlockColor() {
-  if (currentHour > 8) {
-    $("#8am").addClass("past");
-  } else if (currentHour >= 8 && currentHour < 9) {
-    $("#8am").addClass("present");
-  } else if (currentHour < 8) {
-    $("#8am").addClass("future");
+  if (currentHour > 9) {
+    $("#9am").addClass("past");
+  } else if (currentHour >= 9 && currentHour < 9) {
+    $("#9am").addClass("present");
+  } else if (currentHour < 9) {
+    $("#9am").addClass("future");
   }
+
+if (currentHour > 9) {
+  $("#9am").addClass("past");
+} else if (currentHour >= 9 && currentHour < 9) {
+  $("#9am").addClass("present");
+} else if (currentHour < 9) {
+  $("#9am").addClass("future");
+}
+
 }
