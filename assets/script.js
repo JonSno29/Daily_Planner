@@ -150,3 +150,9 @@ $("#2pm").val(localStorage.getItem("2:00"));
 $("#3pm").val(localStorage.getItem("3:00"));
 $("#4pm").val(localStorage.getItem("4:00"));
 $("#5pm").val(localStorage.getItem("5:00"));
+
+/* Delete functions from local storage and text area */
+$(".delbtn9").on("click", function () {
+  var localStor = $(this).siblings("#9am").val("");
+  localStorage.removeItem("9:00", localStor);
+});
