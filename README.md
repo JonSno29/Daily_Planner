@@ -53,11 +53,11 @@ WebPage: https://jonsno29.github.io/Coding_Assessment_Quiz/
 
 🎗 JavaScript
 
-🎗 Media Queries
+🎗 jQuery
 
 🎗 Terminal
 
-🎗 Git
+🎗 Moment.js
 
 🎗 GitHub
 
@@ -71,8 +71,8 @@ WebPage: https://jonsno29.github.io/Coding_Assessment_Quiz/
 
 🎗 Screencastify for mock-up GIF
 
- AssessmentMU
-
+![](ScheduleMU.gif)
+ 
 # CREDITS:
 
 Thank you for the starter code: https://github.com/coding-boot-camp/super-disco.git
