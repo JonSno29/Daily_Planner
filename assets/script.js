@@ -140,3 +140,5 @@ $(".btn5").on("click", function () {
   localStorage.setItem("5:00", localStor);
 });
 
+/* saved tasks from localstorage */
+$("#9am").val(localStorage.getItem("9:00"));
