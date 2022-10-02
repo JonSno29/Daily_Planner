@@ -56,17 +56,17 @@ textarea:focus {
 }
 
 .past {
-  background-color: #e4980a;
+  background-color: #2ebde9;
   color: rgb(10, 10, 8);
 }
 
 .present {
-  background-color: #1fa97b;
+  background-color: #40e3bd;
   color: rgb(3, 2, 2);
 }
 
 .future {
-  background-color: #6e9eca;
+  background-color: #176dbe;
   color: rgb(9, 9, 9);
 }
 
@@ -79,5 +79,23 @@ textarea:focus {
 .saveBtn {
   background-color: #44b1d0;
   border-radius: 25px;
+}
+
+.fas {
+  font-size: 25px;
+  color: #fff;
+}
+
+.fa-calendar-plus:hover {
+  color: #dae41d;
+}
+
+.fa-calendar-minus:hover {
+  color: #efeb24;
+}
+
+.saveBtn i:hover, .deleteBtn i:hover {
+  font-size: 30px;
+  transition: all .4s ease-in-out;
 }
 
