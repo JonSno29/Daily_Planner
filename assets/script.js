@@ -1,5 +1,5 @@
 /* variables section */
-var todaysDate = moment().format("LLLL");
+var todaysDate = dayjs().format("MMM-D-YYYY-hh:mm");
 var tasks = [
   "9am",
   "10am",

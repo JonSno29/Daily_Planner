@@ -6,7 +6,7 @@ For this challenge, I was given a starter code and was tasked with creating a Da
 
 that consisted of three rows that included the times, tasks, and a save button, I researched and chose to
 
-add a "Delete" button. A CSS style sheet was already created for me, I customized and corrected the style 
+add a "Delete" button and to use Day.js. A CSS style sheet was already created for me, I customized and corrected the style 
 
 classes into their designated elements. The functionality was comprised of being able to 
 
