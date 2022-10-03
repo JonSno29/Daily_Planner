@@ -70,7 +70,7 @@ WebPage: https://jonsno29.github.io/Daily_Planner/
 
 🎗 Terminal
 
-🎗 Moment.js
+🎗 Replaced Moment.js with Day.js
 
 🎗 GitHub
 
@@ -100,7 +100,7 @@ MIT LICENSE
 
 ## FEATURES:
 
-🎗 Moment.js.
+🎗 Day.js for local time.
 
 🎗 Uses a GIF to show features.
 
