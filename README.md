@@ -48,13 +48,13 @@ WHEN I refresh the page
 
 THEN the saved events persist
 
-# LIVE LINK:
+## LIVE LINK:
 
 Repository: https://github.com/JonSno29/Daily_Planner.git
 
 WebPage: https://jonsno29.github.io/Daily_Planner/
 
-# INSTALLATION, USAGE & MOCK-UP:
+## INSTALLATION, USAGE & MOCK-UP:
 
 🎗 JavaScript
 
@@ -78,7 +78,7 @@ WebPage: https://jonsno29.github.io/Daily_Planner/
 
 ![](ScheduleMU.gif)
  
-# CREDITS:
+## CREDITS:
 
 Thank you for the starter code: https://github.com/coding-boot-camp/super-disco.git
 
@@ -86,11 +86,11 @@ My fellow bootcamp study group at the U Of M, it's always fun collaborating with
 
 https://momentjs.com/docs/#/-project-status/
 
-# LICENSE:
+## LICENSE:
 
 MIT LICENSE
 
-# FEATURES:
+## FEATURES:
 
 🎗 Moment.js.
 
@@ -110,7 +110,7 @@ Fork my repositories so I can fork yours:
 
 Use the "scout rule" to help others.
 
-# TESTS:
+## TESTS:
 
 🎗 I created extra files in VScode to double check my work.
 
@@ -118,6 +118,6 @@ Use the "scout rule" to help others.
 
 🎗 Research.
 
-# CONTACT:
+## CONTACT:
 
 Snoverjon@gmail.com
