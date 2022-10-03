@@ -16,7 +16,7 @@ textarea{
 }
 
 textarea:focus {
-  background: #fff;
+  background: rgb(246, 246, 19);
   outline: none !important;
   border:3px solid #ac5341;
   box-shadow: 0 0 15px rgb(205, 185, 35);
