@@ -6,9 +6,9 @@ For this challenge, I was given a starter code and was tasked with creating a Da
 
 that consisted of three rows that included the times, tasks, and a save button, I researched and chose to
 
-add a "Delete" button and to use Day.js. A CSS style sheet was already created for me, I customized and corrected the style 
+add a "Delete" button and to use Day.js. A CSS style sheet was already created for me, I customized and 
 
-classes into their designated elements. The functionality was comprised of being able to 
+corrected the style classes into their designated elements. The functionality was comprised of being able to 
 
 type in an event in the center column and then hit the save button, which would save the task to local storage,
 
@@ -18,7 +18,7 @@ for the tasks, the background color of all past time is light blue, the backgrou
 
 and the backgrounds of all future times are royal blue. This webpage also 
 
-displays the current date at the top of the page under the title of the page.
+displays the current date at the top of the page under the title of the page using Day.js.
 
 ## User Story
 
