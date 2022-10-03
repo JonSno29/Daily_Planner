@@ -2,9 +2,15 @@
 
 ## OVERVIEW
 
-To, Prepare me for my journey after I finish Coding Bootcamp. Hiring companies will
+For this challenge, I was given a starter code and was tasked with creating a Daily_Schedule that consisted of three rows that included the times, tasks, and a save button, I researched and chose to
 
-use these Coding Assessments, to make sure you are prepared, before you are hired.
+add a "Delete" button. A CSS style sheet was already created for me, I customized and corrected the style classes into their designated elements. The functionality was comprised of being able to 
+
+type in an event in the center column and then hit the save button, which would save the task to local storage, when the page is refreshed, the task would still remain on the page. Additionally, 
+
+for the tasks, the background color of all past time is light blue, the background of the current time is aqua green, and the backgrounds of all future times are royal blue. This webpage also 
+
+displays the current date at the top of the page under the title of the page.
 
 ## User Story
 
@@ -41,7 +47,6 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 
 THEN the saved events persist
-
 
 # LIVE LINK:
 
@@ -87,13 +92,15 @@ MIT LICENSE
 
 # FEATURES:
 
+🎗 Moment.js.
+
 🎗 Uses a GIF to show features.
 
-🎗 Powered by JavaScript.
+🎗 Powered by jQuery.
 
 🎗 Visually appealing.
 
-🎗 Includes a Timer.
+🎗 Includes local time.
 
 🎗 These features enhance user experience.
 
@@ -105,9 +112,11 @@ Use the "scout rule" to help others.
 
 # TESTS:
 
-🎗 Trial and error
+🎗 I created extra files in VScode to double check my work.
 
-🎗 Research
+🎗 Trial and error.
+
+🎗 Research.
 
 # CONTACT:
 
