@@ -84,7 +84,7 @@ Thank you for the starter code: https://github.com/coding-boot-camp/super-disco.
 
 My fellow bootcamp study group at the U Of M, it's always fun collaborating with eachother.
 
-MDN DOCUMENTS:
+https://momentjs.com/docs/#/-project-status/
 
 # LICENSE:
 
