@@ -2,13 +2,21 @@
 
 ## OVERVIEW
 
-For this challenge, I was given a starter code and was tasked with creating a Daily_Schedule that consisted of three rows that included the times, tasks, and a save button, I researched and chose to
+For this challenge, I was given a starter code and was tasked with creating a Daily_Schedule 
 
-add a "Delete" button. A CSS style sheet was already created for me, I customized and corrected the style classes into their designated elements. The functionality was comprised of being able to 
+that consisted of three rows that included the times, tasks, and a save button, I researched and chose to
 
-type in an event in the center column and then hit the save button, which would save the task to local storage, when the page is refreshed, the task would still remain on the page. Additionally, 
+add a "Delete" button. A CSS style sheet was already created for me, I customized and corrected the style 
 
-for the tasks, the background color of all past time is light blue, the background of the current time is aqua green, and the backgrounds of all future times are royal blue. This webpage also 
+classes into their designated elements. The functionality was comprised of being able to 
+
+type in an event in the center column and then hit the save button, which would save the task to local storage,
+
+when the page is refreshed, the task would still remain on the page. Additionally, 
+
+for the tasks, the background color of all past time is light blue, the background of the current time is aqua green,
+
+and the backgrounds of all future times are royal blue. This webpage also 
 
 displays the current date at the top of the page under the title of the page.
 
